@@ -12,7 +12,7 @@ import java.util.Arrays;
 public class Question18 {
     public static void main(String[] args) {
 
-
+        //测试提交
         System.out.println(System.getProperty("user.home"));
         System.out.println(System.getProperty("java.version"));
         System.out.println(System.getProperty("os.name"));
